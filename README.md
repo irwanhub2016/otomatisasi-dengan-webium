@@ -8,7 +8,7 @@ git clone https://github.com/irwanhub2016/otomatisasi-dengan-webium
 - Masuk ke folder otomatisasi-dengan-webium
 - Aktivasi environment venv :
 ```bash
-source env/bin/activate
+source bin/activate
 ```
 - Install paket yang diperlukan dengan pip3 dengan cara :
 ```bash
